@@ -23,6 +23,9 @@ if (menuClose) {
         if (menu.classList.contains('_open')) {
             menu.classList.remove('_open');
         }
+        if (burger.classList.contains('_active')) {
+            burger.classList.remove('_active');
+        }
     })
 }
 

@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html lang="ru">
-
 <head itemscope itemtype="http://schema.org/WPHeader">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title itemprop="headline">Эротический боди массаж в Алматы.</title>
     <meta itemprop="description" name="description"
         content="Эротический массаж с продолжением и окончанием в в Алматы. Интим-массаж на любой вкус и бюджет. Выбирайте и звоните!">
     <meta itemprop="keywords" name="keywords"
         content="Эротический боди массаж в Алматы, эротический массаж, массаж в Алматы">
     <meta name="image" content="img/logo.svg">
-
     <meta property="og:type" content="website">
     <meta itemprop="headline" property="og:title" content="Эротический боди массаж в Алматы.">
     <meta itemprop="description" property="og:description"
         content="Эротический массаж с продолжением и окончанием в Алматы. Интим-массаж на любой вкус и бюджет. Выбирайте и звоните!">
     <meta property="og:image" content="img/logo.svg">
-
     <meta property="og:url" content="https://example.com">
     <link rel="canonical" href="https://example.com">
     <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -38,26 +34,21 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-
     <meta name="apple-mobile-web-app-title" content="Боди массаж в Алматы">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="format-detection" content="telephone=no">
     <meta name="format-detection" content="address=no">
-
     <link rel="stylesheet" href="css/style.min.css?_v=20220925143144">
     <style>
         body {
             background-image: url("img/lotus-bg.png");
         }
-
         .home {
             background-image: url("img/home.png");
         }
-
         .offer {
             background-image: url("img/second.png");
         }
-
         @media (max-width:992px) {
             .header__menu {
                 background-image: url("img/lotus-bg.png");
@@ -65,7 +56,6 @@
         }
     </style>
 </head>
-
 <body>
     <header class="header" id="header">
         <div class="header__container _container">
@@ -171,7 +161,7 @@
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/rastriranie.png" alt="Растирание Тела">
+                                    <picture><source srcset="img/uslugi/rastriranie.webp" type="image/webp"><img src="img/uslugi/rastriranie.png" alt="Растирание Тела"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -190,7 +180,7 @@
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/tantricheski.png" alt="Тантрический массаж">
+                                    <picture><source srcset="img/uslugi/tantricheski.webp" type="image/webp"><img src="img/uslugi/tantricheski.png" alt="Тантрический массаж"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -210,7 +200,7 @@
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/eroticheski.png" alt=" Эротический массаж">
+                                    <picture><source srcset="img/uslugi/eroticheski.webp" type="image/webp"><img src="img/uslugi/eroticheski.png" alt=" Эротический массаж"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -228,13 +218,12 @@
                                         возможное, чтобы сеанс запомнился и принес пользу клиентам.</p>
                                 </div>
                             </div>
-
                         </article>
                         <article itemprop="itemListElement" itemscope itemtype="https://schema.org/Offer"
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/chuvstvenni.png" alt="Чувственный массаж">
+                                    <picture><source srcset="img/uslugi/chuvstvenni.webp" type="image/webp"><img src="img/uslugi/chuvstvenni.png" alt="Чувственный массаж"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -257,7 +246,7 @@
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/nuru.png" alt="Нуру массаж">
+                                    <picture><source srcset="img/uslugi/nuru.webp" type="image/webp"><img src="img/uslugi/nuru.png" alt="Нуру массаж"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -278,7 +267,7 @@
                             class="services__item">
                             <div class="services__item-flex">
                                 <div class="services__item-image">
-                                    <img src="img/uslugi/konec.png" alt="Массаж с счастливым концом">
+                                    <picture><source srcset="img/uslugi/konec.webp" type="image/webp"><img src="img/uslugi/konec.png" alt="Массаж с счастливым концом"></picture>
                                 </div>
                                 <div itemprop="itemOffered" itemscope itemtype="https://schema.org/Service"
                                     class="services__item-content">
@@ -341,8 +330,8 @@
         </section>
     </main>
     <footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
-        <meta itemprop="copyrightYear" content="2022">
-        <meta itemprop="copyrightHolder" content="Боди массаж Алматы">
+    	<meta itemprop="copyrightYear" content="2022">
+    	<meta itemprop="copyrightHolder" content="Боди массаж Алматы">
         <div class="footer__container _container">
             <div class="footer__body">
                 <div class="footer__left">
@@ -376,31 +365,30 @@
         <img src="img/to-top.svg" alt="">
     </a>
     <div style="display:none" itemscope itemtype="http://schema.org/Organization">
-        <div itemprop="name">Боди массаж Алматы</div>
-        <link itemprop="url" href="https://exemple.com/">
-        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-            <span itemprop="postalCode">100100</span>,
-            <span itemprop="addressCountry">Казахстан</span>,
-            <span itemprop="addressRegion">Алматинская область</span>,
-            <span itemprop="addressLocality">Алматы</span>,
-            <span itemprop="streetAddress">ул. Кабанбай батыра, д.37, строение 12</span>
-        </div>
-        <div itemprop="telephone">+79999999999</div>
-        <div itemprop="email">example@mail.ru</div>
+       <div itemprop="name">Боди массаж Алматы</div>
+       <link itemprop="url" href="https://exemple.com/">
+       <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+          <span itemprop="postalCode">100100</span>,
+          <span itemprop="addressCountry">Казахстан</span>, 
+          <span itemprop="addressRegion">Алматинская область</span>, 
+          <span itemprop="addressLocality">Алматы</span>, 
+          <span itemprop="streetAddress">ул. Кабанбай батыра, д.37, строение 12</span>
+       </div>
+       <div itemprop="telephone">+79999999999</div>
+       <div itemprop="email">example@mail.ru</div>
     </div>
     <div style="display:none" itemscope itemtype="http://schema.org/LocalBusiness">
-        <span itemprop="name">Боди массаж Алматы</span>
-        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-            <meta itemprop="streetAddress" content="ул. Кабанбай батыра, д.37, строение 12">
-            <meta itemprop="postalCode" content="100100">
-            <meta itemprop="addressLocality" content="Алматы">
-        </span>
-        <span itemprop="telephone">+79999999999</span>
-        <span itemprop="email">example@mail.ru</span>
-        <time itemprop="openingHours" datetime="Mo-Su, 9:00−21:00">Пн-Вс, 9:00 – 21:00</time>
-        <img itemprop="image" alt="" src="img/logo.svg" />
-    </div>
+	    <span itemprop="name">Боди массаж Алматы</span>
+	    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	        <meta itemprop="streetAddress" content="ул. Кабанбай батыра, д.37, строение 12">
+	        <meta itemprop="postalCode" content="100100">
+	        <meta itemprop="addressLocality" content="Алматы">
+	    </span>
+	    <span itemprop="telephone">+79999999999</span>
+	    <span itemprop="email">example@mail.ru</span>
+	    <time itemprop="openingHours" datetime="Mo-Su, 9:00−21:00">Пн-Вс, 9:00 – 21:00</time>
+	    <img itemprop="image" alt="" src="img/logo.svg" />
+	</div>
     <script src="js/app.min.js?_v=20220925143144"></script>
 </body>
-
 </html>

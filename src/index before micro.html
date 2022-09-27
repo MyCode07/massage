@@ -44,7 +44,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="format-detection" content="address=no">
 
-    <link rel="stylesheet" href="css/style.min.css?_v=20220925143144">
+    <link rel="stylesheet" href="css/style.min.css">
     <style>
         body {
             background-image: url("img/lotus-bg.png");
@@ -340,9 +340,7 @@
             </div>
         </section>
     </main>
-    <footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
-        <meta itemprop="copyrightYear" content="2022">
-        <meta itemprop="copyrightHolder" content="Боди массаж Алматы">
+    <footer class="footer" id="footer">
         <div class="footer__container _container">
             <div class="footer__body">
                 <div class="footer__left">
@@ -355,7 +353,7 @@
                             <span>тел.: </span>
                             +7 999 999 99 99
                         </a>
-                        <a href="mailto:example@mail.ru">
+                        <a itemprop="email" href="mailto:example@mail.ru">
                             <span>e-mail: </span>
                             example@mail.ru
                         </a>
@@ -375,32 +373,7 @@
     <a href="#header" class="to-top">
         <img src="img/to-top.svg" alt="">
     </a>
-    <div style="display:none" itemscope itemtype="http://schema.org/Organization">
-        <div itemprop="name">Боди массаж Алматы</div>
-        <link itemprop="url" href="https://exemple.com/">
-        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-            <span itemprop="postalCode">100100</span>,
-            <span itemprop="addressCountry">Казахстан</span>,
-            <span itemprop="addressRegion">Алматинская область</span>,
-            <span itemprop="addressLocality">Алматы</span>,
-            <span itemprop="streetAddress">ул. Кабанбай батыра, д.37, строение 12</span>
-        </div>
-        <div itemprop="telephone">+79999999999</div>
-        <div itemprop="email">example@mail.ru</div>
-    </div>
-    <div style="display:none" itemscope itemtype="http://schema.org/LocalBusiness">
-        <span itemprop="name">Боди массаж Алматы</span>
-        <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-            <meta itemprop="streetAddress" content="ул. Кабанбай батыра, д.37, строение 12">
-            <meta itemprop="postalCode" content="100100">
-            <meta itemprop="addressLocality" content="Алматы">
-        </span>
-        <span itemprop="telephone">+79999999999</span>
-        <span itemprop="email">example@mail.ru</span>
-        <time itemprop="openingHours" datetime="Mo-Su, 9:00−21:00">Пн-Вс, 9:00 – 21:00</time>
-        <img itemprop="image" alt="" src="img/logo.svg" />
-    </div>
-    <script src="js/app.min.js?_v=20220925143144"></script>
+    <script src="js/app.min.js"></script>
 </body>
 
 </html>
